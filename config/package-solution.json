@@ -1,0 +1,14 @@
+{
+  "$schema": "https://developer.microsoft.com/json-schemas/spfx-build/package-solution.schema.json",
+  "solution": {
+    "name": "agrenpoint-wizard-client-side-solution",
+    "id": "bfa4d0b3-eac1-4ab1-8daa-fa561d24ee7a",
+    "version": "1.0.0.0",
+    "includeClientSideAssets": true,
+    "skipFeatureDeployment": true,
+    "isDomainIsolated": false
+  },
+  "paths": {
+    "zippedPackage": "solution/agrenpoint-wizard.sppkg"
+  }
+}
